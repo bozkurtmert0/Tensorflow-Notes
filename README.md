@@ -1,2 +1,3 @@
-# Tensorflow-Notes
- Tensorflow öğrenirken aldığım notlar
+# TensorFlow Notes
+ TensorFlow öğrenirken aldığım notları paylaşmak için...
+ 
